@@ -1,4 +1,4 @@
-package Encapsulation;
+package Interface;
 
 public class UpiPayment implements Payment{
     @Override
