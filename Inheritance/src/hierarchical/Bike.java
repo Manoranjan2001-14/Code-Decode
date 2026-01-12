@@ -1,0 +1,4 @@
+package hierarchical;
+
+public class Bike {
+}
