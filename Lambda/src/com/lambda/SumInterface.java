@@ -1,4 +1,5 @@
 package com.lambda;
-
-public class SumInterface {
+@FunctionalInterface
+public interface SumInterface {
+    int add(int a, int b);
 }
