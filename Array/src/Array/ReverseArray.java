@@ -14,7 +14,7 @@ public class ReverseArray {
             j--;
         }
         for(int ele:arr){
-            System.out.println(ele);
+            System.out.print(ele+" ");
         }
     }
 
