@@ -12,5 +12,8 @@ public class Main {
 
         SumInterface sum = (a, b) -> a + b;
         System.out.println(sum.add(4, 7));
+
+        LengthInter l = (str -> str.length());
+        System.out.println(l.getLength("Manoranjan"));
     }
 }
